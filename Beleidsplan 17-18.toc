@@ -20,57 +20,58 @@
 \contentsline {subsubsection}{\numberline {2.4.2}Slow Open}{2}
 \contentsline {section}{\numberline {3}Activiteiten}{2}
 \contentsline {subsection}{\numberline {3.1}InSlowductie}{2}
-\contentsline {subsection}{\numberline {3.2}Stamkroeg}{2}
-\contentsline {subsection}{\numberline {3.3}Feesten}{2}
-\contentsline {subsubsection}{\numberline {3.3.1}Slow in the Dark}{2}
-\contentsline {subsubsection}{\numberline {3.3.2}SHOTS}{2}
-\contentsline {subsubsection}{\numberline {3.3.3}Villafeesten}{2}
-\contentsline {subsubsection}{\numberline {3.3.4}Stamkroegfeesten}{2}
-\contentsline {subsubsection}{\numberline {3.3.5}Gala}{2}
-\contentsline {subsection}{\numberline {3.4}Wintersport}{2}
-\contentsline {subsection}{\numberline {3.5}Overige Activiteiten}{2}
-\contentsline {section}{\numberline {4}Externe Betrekkingen}{2}
-\contentsline {subsection}{\numberline {4.1}Extern Beleid}{2}
-\contentsline {subsection}{\numberline {4.2}SET}{2}
-\contentsline {subsection}{\numberline {4.3}Externe Activiteiten}{2}
-\contentsline {subsubsection}{\numberline {4.3.1}Davis Cup}{2}
-\contentsline {subsubsection}{\numberline {4.3.2}Batavierenrace}{2}
-\contentsline {subsubsection}{\numberline {4.3.3}Activiteiten met andere verenigingen}{2}
-\contentsline {section}{\numberline {5}Financi\"en}{2}
-\contentsline {section}{\numberline {6}Vereniging}{2}
-\contentsline {subsection}{\numberline {6.1}Leden}{2}
-\contentsline {subsection}{\numberline {6.2}Kleding}{2}
-\contentsline {subsection}{\numberline {6.3}Website}{2}
-\contentsline {subsection}{\numberline {6.4}Slowmotion}{2}
-\contentsline {subsection}{\numberline {6.5}Accommodaties}{4}
-\contentsline {subsection}{\numberline {6.6}Algemene Introductie}{4}
-\contentsline {subsection}{\numberline {6.7}Bestuursfuncties}{4}
-\contentsline {subsubsection}{\numberline {6.7.1}Voorzitter}{4}
-\contentsline {subsubsection}{\numberline {6.7.2}Secretaris}{4}
-\contentsline {subsubsection}{\numberline {6.7.3}Penningmeester}{4}
-\contentsline {subsubsection}{\numberline {6.7.4}Technisch Commissaris}{4}
-\contentsline {subsubsection}{\numberline {6.7.5}Commissaris Intern}{4}
-\contentsline {subsubsection}{\numberline {6.7.6}Commissaris Extern en Promo}{4}
-\contentsline {subsection}{\numberline {6.8}Commissies}{4}
-\contentsline {subsubsection}{\numberline {6.8.1}Bestuursadviescommissie (BAC)}{4}
-\contentsline {subsubsection}{\numberline {6.8.2}Kascontrolecommissie}{4}
-\contentsline {subsubsection}{\numberline {6.8.3}Technische Commissie}{4}
-\contentsline {subsubsection}{\numberline {6.8.4}Activiteitencommissie}{4}
-\contentsline {subsubsection}{\numberline {6.8.5}Tosscommissie}{4}
-\contentsline {subsection}{\numberline {6.9}Kookcommissie (Nascie)}{4}
-\contentsline {subsection}{\numberline {6.10}Toernooicommissie}{4}
-\contentsline {subsection}{\numberline {6.11}Feestcommissie}{4}
-\contentsline {subsection}{\numberline {6.12}Inslowductieweekend}{4}
-\contentsline {subsection}{\numberline {6.13}SLET}{4}
-\contentsline {subsection}{\numberline {6.14}Redactiecommissie}{4}
-\contentsline {subsection}{\numberline {6.15}Promo -en Designcommissie}{4}
-\contentsline {subsection}{\numberline {6.16}Fotocommissie}{4}
-\contentsline {subsection}{\numberline {6.17}Mediacommissie}{4}
-\contentsline {subsection}{\numberline {6.18}Wintersportcommissie}{4}
-\contentsline {subsection}{\numberline {6.19}Introductiecommissie}{4}
-\contentsline {subsection}{\numberline {6.20}SUB-weekend}{4}
-\contentsline {subsection}{\numberline {6.21}Slow-Apeliotes Commissie}{4}
-\contentsline {subsection}{\numberline {6.22}Batavierenrace}{4}
-\contentsline {subsubsection}{\numberline {6.22.1}Galacommissie}{4}
-\contentsline {subsection}{\numberline {6.23}Villafeest}{4}
-\contentsline {subsection}{\numberline {6.24}Sponsorcommissie}{4}
+\contentsline {subsection}{\numberline {3.2}InSlowductieweekend}{3}
+\contentsline {subsection}{\numberline {3.3}Stamkroeg}{4}
+\contentsline {subsection}{\numberline {3.4}Feesten}{4}
+\contentsline {subsubsection}{\numberline {3.4.1}Slow in the Dark}{4}
+\contentsline {subsubsection}{\numberline {3.4.2}SHOTS}{4}
+\contentsline {subsubsection}{\numberline {3.4.3}Villafeesten}{4}
+\contentsline {subsubsection}{\numberline {3.4.4}Stamkroegfeesten}{4}
+\contentsline {subsubsection}{\numberline {3.4.5}Gala}{4}
+\contentsline {subsection}{\numberline {3.5}Wintersport}{4}
+\contentsline {subsection}{\numberline {3.6}Overige Activiteiten}{4}
+\contentsline {section}{\numberline {4}Externe Betrekkingen}{4}
+\contentsline {subsection}{\numberline {4.1}Extern Beleid}{4}
+\contentsline {subsection}{\numberline {4.2}SLET}{4}
+\contentsline {subsection}{\numberline {4.3}Externe Activiteiten}{4}
+\contentsline {subsubsection}{\numberline {4.3.1}Davis Cup}{4}
+\contentsline {subsubsection}{\numberline {4.3.2}Batavierenrace}{4}
+\contentsline {subsubsection}{\numberline {4.3.3}Activiteiten met andere verenigingen}{4}
+\contentsline {section}{\numberline {5}Financi\"en}{4}
+\contentsline {section}{\numberline {6}Vereniging}{4}
+\contentsline {subsection}{\numberline {6.1}Leden}{4}
+\contentsline {subsection}{\numberline {6.2}Kleding}{4}
+\contentsline {subsection}{\numberline {6.3}Website}{4}
+\contentsline {subsection}{\numberline {6.4}Slowmotion}{4}
+\contentsline {subsection}{\numberline {6.5}Accommodaties}{6}
+\contentsline {subsection}{\numberline {6.6}Algemene Introductie}{6}
+\contentsline {subsection}{\numberline {6.7}Bestuursfuncties}{6}
+\contentsline {subsubsection}{\numberline {6.7.1}Voorzitter}{6}
+\contentsline {subsubsection}{\numberline {6.7.2}Secretaris}{6}
+\contentsline {subsubsection}{\numberline {6.7.3}Penningmeester}{6}
+\contentsline {subsubsection}{\numberline {6.7.4}Technisch Commissaris}{6}
+\contentsline {subsubsection}{\numberline {6.7.5}Commissaris Intern}{6}
+\contentsline {subsubsection}{\numberline {6.7.6}Commissaris Extern en Promo}{6}
+\contentsline {subsection}{\numberline {6.8}Commissies}{6}
+\contentsline {subsubsection}{\numberline {6.8.1}Bestuursadviescommissie (BAC)}{6}
+\contentsline {subsubsection}{\numberline {6.8.2}Kascontrolecommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.3}Technische Commissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.4}Activiteitencommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.5}Tosscommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.6}Kookcommissie (Nascie)}{6}
+\contentsline {subsubsection}{\numberline {6.8.7}Toernooicommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.8}Feestcommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.9}Inslowductieweekend}{6}
+\contentsline {subsubsection}{\numberline {6.8.10}SLET}{6}
+\contentsline {subsubsection}{\numberline {6.8.11}Redactiecommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.12}Promo -en Designcommissie}{6}
+\contentsline {subsubsection}{\numberline {6.8.13}Fotocommissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.14}Mediacommissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.15}Wintersportcommissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.16}Introductiecommissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.17}SUB-weekend}{7}
+\contentsline {subsubsection}{\numberline {6.8.18}Slow-Apeliotes Commissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.19}Batavierenrace}{7}
+\contentsline {subsubsection}{\numberline {6.8.20}Galacommissie}{7}
+\contentsline {subsubsection}{\numberline {6.8.21}Villafeest}{7}
+\contentsline {subsubsection}{\numberline {6.8.22}Sponsorcommissie}{7}
